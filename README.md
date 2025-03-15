@@ -90,13 +90,6 @@ print(result)
 - **Model Reliability:** Both models demonstrate high accuracy and consistency, with Random Forest slightly outperforming Logistic Regression.
 - **Explainability:** SHAP enhances trust in the model by clearly explaining feature contributions.
 
-## License
-This project is open-source and available for use under the MIT License.
-
-## Contributions
-Feel free to contribute by opening issues or submitting pull requests.
-
 ---
 
-For questions or suggestions, please reach out via the repository issues section.
 
